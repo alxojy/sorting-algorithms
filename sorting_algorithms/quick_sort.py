@@ -1,5 +1,7 @@
 # author: alex o
 
+# function call: 
+# @param hi: len(arr)-1
 def quick_sort(arr, lo, hi):
     # best case with DNF when all elements are the same: O(N)
     # worst case: O(N^2)
