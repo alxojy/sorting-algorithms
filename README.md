@@ -1,4 +1,7 @@
-## Sorting functions in python
+## Sorting functions in python.
+
+I implemented a few sorting algorithms using python. Bubble sort and quick sort have improved 
+best case time complexities (refer to notes). 
 
 |No.| Sorting algorithms | Best case | Worst case | Notes                                      |
 |---|--------------------|-----------|------------|--------------------------------------------|
